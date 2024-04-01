@@ -1,9 +1,6 @@
 ### Olá 👋
 
-# Bem-vindo ao meu perfil do GitHub!
-
-## Sobre Mim
-Olá! Meu nome é Jorge Luiz de Oliveira e sou desenvolvedor .NET. Tenho paixão por criar aplicativos e soluções que ajudam as pessoas e melhoram suas vidas. Estou constantemente aprendendo e buscando aprimorar minhas habilidades em desenvolvimento de software.
+Meu nome é Jorge Luiz de Oliveira e sou desenvolvedor .NET. Tenho paixão por criar aplicativos e soluções que ajudam as pessoas e melhoram suas vidas. Estou constantemente aprendendo e buscando aprimorar minhas habilidades em desenvolvimento de software.
 
 ## Habilidades
 - Linguagens de Programação: C#, .NET
